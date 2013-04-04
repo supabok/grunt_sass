@@ -1,0 +1,25 @@
+{
+  "name": "env_setup",
+  "version": "0.0.1",
+  "title": "simple grunt environment setup",
+  "author": {
+      "name": "erick"
+  },
+  "private": true,
+  "dependencies": {
+    "grunt-lib-contrib": "~0.5.1"
+  },
+
+  "devDependencies": {
+    "grunt": "latest",
+    "grunt-mocha": "~0.2.2",
+    "grunt-contrib-jshint": "~0.2.0",
+    "grunt-contrib-clean": "~0.4.0",
+    "grunt-contrib-internal": "~0.4.2",
+    "grunt-contrib-concat": "latest",
+    "grunt-contrib-uglify": "latest",
+    "grunt-contrib-watch": "latest",
+    "grunt-contrib-compass": "latest"
+  }
+
+}
